@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Bmob/app/build/intermediates/pre-dexed/debug/baidumapapi_v3_0_0-abbe1786d7278990b2eb90ff374cedacb214f5aa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/build/intermediates/pre-dexed/debug/photoview-library-1.2.2-410a488a5a36e0da3c6b262b1d56f0c0b287e962.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/build/intermediates/pre-dexed/debug/BmobSDK_V3.4.3_0820-393297779aac97bad2645d21120d2fad9b25d60f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/build/intermediates/pre-dexed/debug/classes-2302f581d3176aaa36dafe62086fb6fd04386307.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/build/intermediates/pre-dexed/debug/classes-474ebb3d8f64c336867a8c18adb6a5379cff55af.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/build/intermediates/pre-dexed/debug/BmobIM_V1.1.9beta_20150820-0bd62bba6a15a2946ae4a5d4f164aa971e296878.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-145e4670c85843fbf5e44e4f67350cb5b23316d1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/build/intermediates/pre-dexed/debug/locSDK_4.2-5acee6a15de8592d8f4e567dc55d5face875168e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-c78253317b279ac620e176db2c4fdc2ee0567165.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2_sources-486bae8866a626ab026011e9b66da1978efb9448.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

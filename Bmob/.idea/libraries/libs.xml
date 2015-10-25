@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Bmob/app/libs/BmobSDK_V3.4.3_0820.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/libs/locSDK_4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/libs/BmobIM_V1.1.9beta_20150820.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/libs/universal-image-loader-1.9.2_sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/libs/baidumapapi_v3_0_0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Bmob/app/libs/photoview-library-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
